@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LaundryList</string>
+    <string name="no_clothes">No Clothes</string>_
+    <string name="item_deleted">Deleted</string>
+    <string name="undo">Undo</string>
+    <string name="undo_all">Undo All</string>
+    <string name="n_items_deleted">Items Deleted</string>
+
+</resources>
